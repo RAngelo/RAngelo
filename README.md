@@ -1,17 +1,28 @@
 # Rafael´s GIT
 - 👋 Hi, I’m @RAngelo
-- 👀 I’m interested in ML/DL projects
-- 💞️ I’m looking to collaborate on Signal Classification projects using 1d-CNN, RNN etc
-- 📫 How to reach me rafael1705r@gmail.com
-
+- 👀 I’m interested in ML/DL, algorithms, graph/network flow. 
+- 💞️ I’m looking to collaborate on ML/DL projects and graph´s algorithms
+- 📫 How to reach me rafael1705r@gmail.com 
 ***
-📈 My Github stats <br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAngelo&layout=compact&langs_count=16&theme=default"" alt="shwetangStats" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=RAngelo&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-</p>
+
+📈 **My Github stats**
+
+![RAngelo Status](https://github-readme-stats.vercel.app/api?username=rangelo&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rangelo&layout=compact)](https://github.com/rangelo/github-readme-stats)
+
+
+⌨️ **Language & Frameworks of interest**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
+ 🗃️ **Database**
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
 
 <!---
 RAngelo/RAngelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
