@@ -1,4 +1,4 @@
-# Rafael´s GIT
+# Rafael Vieira
 - 👋 Hi, I’m @RAngelo
 - 👀 I’m interested in ML/DL, algorithms, graph/network flow. 
 - 💞️ I’m looking to collaborate on ML/DL projects and graph´s algorithms
@@ -13,12 +13,12 @@
 
 ⌨️ **Language & Frameworks of interest**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+<kdb>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</kbd>
+<kdb>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</kbd>
+<kdb>![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)</kbd>
+<kdb>![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)</kbd>
+<kdb>![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)</kbd>
+<kdb>![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)</kbd>
 
  🗃️ **Database**
 
